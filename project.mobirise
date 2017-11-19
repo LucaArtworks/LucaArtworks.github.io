@@ -42,9 +42,9 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "title": "RUSHNATION",
           "text": "YOUR SKYPVP SERVER",
@@ -106,7 +106,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/ytber-1200x450.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -118,14 +118,16 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/supporter-1200x450.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
                 "title": "",
                 "contentAlign": "right",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BEWERBEN</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BEWERBEN</a> ",
+                "overlay": true,
+                "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/builder-1200x450.png",

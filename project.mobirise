@@ -33,10 +33,10 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2017-11-19-16.40.52-1-1920x1080.png",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/2017-11-19_16.40.52-1-1920x1080.png",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#4c6972",
             "bgVideoRadio": false,
             "bgVideo": {

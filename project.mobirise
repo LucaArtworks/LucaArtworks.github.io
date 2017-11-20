@@ -11,7 +11,7 @@
     "versionFirst": "4.4.1",
     "uniqCompNum": 19,
     "versionPublish": "4.4.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/2017-11-19-16.40.52-128x72.png",
     "noImageResize": ""
   },
   "pages": {
@@ -33,10 +33,10 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/2017-11-19_16.40.52-1-1920x1080.png",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2017-11-19-16.40.52-1-1920x1080.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#4c6972",
             "bgVideoRadio": false,
             "bgVideo": {
